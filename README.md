@@ -1,2 +1,2 @@
-#Telegram bot on GO
+# Telegram bot on GO
 Pet project to learn GO
